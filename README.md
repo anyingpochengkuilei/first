@@ -1,3 +1,3 @@
 # first
 first repository
-xuehao:  21013416
+学号:  21013416
